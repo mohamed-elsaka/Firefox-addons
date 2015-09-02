@@ -1,0 +1,2 @@
+#PluralsightAutoDown
+Autodownload pluralsight course

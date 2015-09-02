@@ -1,0 +1,13 @@
+{
+  "title": "PluralsightAutoDown",
+  "name": "pluralsight-downloader",
+  "version": "0.0.1",
+  "description": "Autodownload pluralsight course",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
